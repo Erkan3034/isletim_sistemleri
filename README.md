@@ -73,7 +73,7 @@
     │
     ├── 3.4 İŞLEM_ZAMANLAYICILARI (Schedulers)
     [cite_start]│   ├── UZUN_VADELİ (Long-Term/Job Scheduler): Hangi işlemlerin hazır kuyruğuna alınacağına karar verir (Çoklu programlama seviyesini kontrol eder). [cite: 1514, 1515, 1517, 1533]
-    [cite_start]│   ├── KISA_VADELİ (Short-Term/CPU Scheduler): Sıradaki hangi işlemin CPU tarafından çalıştırılacağına karar verir (Çok sık çalışır). [cite: 1519, 1525, 1530]
+    [cite_start]│   ├── KISA_VADELİ (Short-Term/CPU Scheduler): Sıradaki hangi işlemin CPU tarafından çalıştı rılacağına karar verir (Çok sık çalışır). [cite: 1519, 1525, 1530]
     │   └── ORTA_VADELİ (Medium-Term Scheduler): CPU'da çalışan uygulamayı kısa süreli diske atıp tekrar RAM'e alır (**Swap Out/In**). [cite_start]Sanal bellek sağlar. [cite: 1545]
     │
     ├── 3.5 İŞLEM_OLUŞTURMA_VE_SONLANDIRMA
