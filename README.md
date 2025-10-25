@@ -1,8 +1,6 @@
 # İŞLETİM SİSTEMLERİ KAVRAM HARİTASI
 #### İşletim sistemlerine dair kişisel notlarım.
-
-# 🧩 İŞLETİM SİSTEMLERİ KAVRAM HARİTASI
-
+---
 | **Konu Başlığı** | **Alt Başlık / Açıklama** | **Ek Bilgi / Örnek** |
 |------------------|----------------------------|-----------------------|
 | **1. TEMEL KAVRAMLAR VE MİMARİ** |  |  |
